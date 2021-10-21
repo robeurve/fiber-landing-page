@@ -176,6 +176,10 @@ li {
   margin: 0;
 }
 
+.header .rating {
+  display: none;
+}
+
 /*********************/
 /*  Fatures Section  */
 /********************/
