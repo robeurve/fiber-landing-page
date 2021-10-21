@@ -19,7 +19,8 @@ Esta es una solución al reto [Fiber landing page de Codewell](https://www.codew
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot mobile](./img/captura-mobile.png)
+![Screenshot desktop](./img/captura-desktop.png)
 
 ### Links
 
